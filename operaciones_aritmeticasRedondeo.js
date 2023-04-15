@@ -1,14 +1,14 @@
 //Principales Operaciones aritmeticas
-let a = 37.5;
-let b = 40.8;
+let a = 3.5;
+let b = 4.8;
 
 // Suma (+)
-console.log(a + b);
-//Resta
+console.log(a0 + b);
+//Resta (-)
 console.log(a - b);
-//Multiplicacion
+//Multiplicacion (*)
 console.log(a * b);
-//Division
+//Division (/)
 console.log(a / b);
 
 
